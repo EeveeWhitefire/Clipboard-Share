@@ -11,7 +11,7 @@ sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
 
 # Bind the socket to the port
 
-PORT = 42069
+PORT = 1337
 IP = ipv4() #my ipv4
 
 CF_TEXT = 1
